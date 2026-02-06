@@ -11,3 +11,9 @@
 - Resumo semanal às sextas 15:00 (BRT).
 - Relatório mensal na última sexta do mês às 15:00 (BRT).
 - Escopo: Brasil + Mundo. Trilhas: Gastronomia & culinária, Food Tech, Food Service, Nutrição/saúde, Regulatório, Sustentabilidade/cadeia.
+
+## Direção do produto (Homem na Cozinha → foodtech)
+- Go-to-market inicial: B2C (com possibilidade de migração futura).
+- Produto: conteúdo + sistemas (SaaS) para facilitar a vida do usuário.
+- Diferencial principal: praticidade.
+- Meta (90 dias): MVP do produto principal + algum faturamento via conteúdo.
