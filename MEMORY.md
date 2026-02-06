@@ -17,3 +17,6 @@
 - Produto: conteúdo + sistemas (SaaS) para facilitar a vida do usuário.
 - Diferencial principal: praticidade.
 - Meta (90 dias): MVP do produto principal + algum faturamento via conteúdo.
+
+## Preferências / Sutilezas
+- Futebol: para o Ricardo, não existe nada melhor que o **São Paulo Futebol Clube**.

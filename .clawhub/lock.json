@@ -4,6 +4,10 @@
     "gcalcli-calendar": {
       "version": "2.0.2",
       "installedAt": 1770411913655
+    },
+    "notion-api-skill": {
+      "version": "1.0.3",
+      "installedAt": 1770414494606
     }
   }
 }
