@@ -2,15 +2,19 @@
 
 *Learn about the person you're helping. Update this as you go.*
 
-- **Name:**
-- **What to call them:**
+- **Name:** Ricardo Cobra
+- **What to call them:** Ricardo
 - **Pronouns:** *(optional)*
-- **Timezone:**
-- **Notes:**
+- **Timezone:** America/Sao_Paulo (GMT-3)
+- **Notes:** Casado, pai de duas meninas. Está em transição de carreira e transformando o projeto "Homem na Cozinha" em uma foodtech.
 
 ## Context
 
-*(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)*
+- Formação: Bacharel em Ciências da Computação; Gastrônomo; pós-graduação em cozinha autoral; MBA em inovação, gestão e liderança.
+- Projetos:
+  - Site (20 anos em 2026-02-06): https://www.homemnacozinha.com
+  - LinkedIn: https://www.linkedin.com/in/ricardocobramartinez/
+- Preferências de pesquisa: fontes PT/EN, respostas em PT-BR; começar amplo e calibrar com o tempo.
 
 ---
 
