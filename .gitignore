@@ -1,0 +1,17 @@
+# OpenClaw workspace backups
+# Keep this repo limited to workspace docs/memory.
+
+# OS/editor
+.DS_Store
+*.swp
+*.swo
+
+# If you later add a memory/ folder, keep it.
+# (no ignore for memory/)
+
+# Never store gateway secrets here
+# (openclaw.json lives outside workspace, but ignore just in case)
+openclaw.json
+*.token
+*.key
+*.pem
